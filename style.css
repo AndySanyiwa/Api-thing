@@ -1,0 +1,39 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(249, 242, 233);
+}
+section {
+    margin-top: 50px;
+}
+form {
+    display: block;
+}
+.heading {
+    font-size: 63px;
+}
+.num {
+    position: relative;
+    top: 60px;
+    font-weight: normal;
+}
+#content-box {
+    position: relative;
+    top: 99px;
+}
+.output {
+    position: relative;
+    top: 130px;
+}
+.button {
+    padding: 5px 25px;
+    position: relative;
+    top: 110px;
+    cursor: pointer;
+}
+.sbutton {
+    display: inline-block;
+}
+
+
+
